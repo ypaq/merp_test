@@ -6,6 +6,7 @@
  ,{applications,
    [kernel
    ,stdlib
+   ,nerp_test
    ]}
  ,{env,[]}
  ,{modules, []}
