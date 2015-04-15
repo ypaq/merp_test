@@ -1,0 +1,12 @@
+{application, nerp_test,
+ [{description, "An OTP application"}
+ ,{vsn, "0.1.0"}
+ ,{registered, []}
+ ,{mod, {'nerp_test_app', []}}
+ ,{applications,
+   [kernel
+   ,stdlib
+   ]}
+ ,{env,[]}
+ ,{modules, []}
+ ]}.
